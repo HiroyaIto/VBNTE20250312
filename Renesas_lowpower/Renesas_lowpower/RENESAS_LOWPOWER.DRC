@@ -1,0 +1,89 @@
+Date and Time : 09/11/26 17:24:27
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です CSIO4 
+                    SCHEMATIC1, PAGE1  (7.70, 1.70) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です CSIO3 
+                    SCHEMATIC1, PAGE1  (7.70, 1.90) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です CSIO0 
+                    SCHEMATIC1, PAGE1  (7.70, 2.10) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です CSIO1 
+                    SCHEMATIC1, PAGE1  (7.70, 2.30) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です CSIO2 
+                    SCHEMATIC1, PAGE1  (5.80, 1.90) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です NIQR 
+                    SCHEMATIC1, PAGE1  (5.40, 4.60) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です VSS 
+                    SCHEMATIC1, PAGE1  (6.60, 4.60) 
+
+Checking For Unconnected Bus Nets
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+
+INFO(ORCAP-2242): 不正なピングループの割当てのチェック
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Entire Design: RENESAS_LOWPOWER 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): 不明なピン番号をチェックする 
+
+Checking Device with Zero pins  
+INFO(ORCAP-36101): 不明なPCBフットプリント属性をチェックする
+#1 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス TP12: SCHEMATIC1、PAGE1 (6.10, 4.90) から欠落しています。
+#2 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス R4: SCHEMATIC1、PAGE1 (0.50, 4.50) から欠落しています。
+#3 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス U1: SCHEMATIC1、PAGE1 (1.60, 1.20) から欠落しています。
+#4 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス TP13: SCHEMATIC1、PAGE1 (6.50, 4.90) から欠落しています。
+#5 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス R3: SCHEMATIC1、PAGE1 (7.80, 1.10) から欠落しています。
+#6 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス TP10: SCHEMATIC1、PAGE1 (5.30, 4.90) から欠落しています。
+#7 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス TP3: SCHEMATIC1、PAGE1 (5.70, 4.00) から欠落しています。
+#8 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス R2: SCHEMATIC1、PAGE1 (5.10, 1.10) から欠落しています。
+#9 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス TP11: SCHEMATIC1、PAGE1 (5.70, 4.90) から欠落しています。
+#10 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス TP2: SCHEMATIC1、PAGE1 (5.30, 4.00) から欠落しています。
+#11 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス R1: SCHEMATIC1、PAGE1 (5.30, 1.10) から欠落しています。
+#12 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス TP1: SCHEMATIC1、PAGE1 (4.90, 4.00) から欠落しています。
+#13 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス TP7: SCHEMATIC1、PAGE1 (7.30, 4.00) から欠落しています。
+#14 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス TP6: SCHEMATIC1、PAGE1 (6.90, 4.00) から欠落しています。
+#15 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス TP5: SCHEMATIC1、PAGE1 (6.50, 4.00) から欠落しています。
+#16 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス TP4: SCHEMATIC1、PAGE1 (6.10, 4.00) から欠落しています。
+#17 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス C1: SCHEMATIC1、PAGE1 (4.70, 2.40) から欠落しています。
+#18 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス TP9: SCHEMATIC1、PAGE1 (4.90, 4.90) から欠落しています。
+#19 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス TP16: SCHEMATIC1、PAGE1 (7.70, 4.90) から欠落しています。
+#20 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス TP8: SCHEMATIC1、PAGE1 (7.70, 4.00) から欠落しています。
+#21 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス U2: SCHEMATIC1、PAGE1 (6.10, 1.30) から欠落しています。
+#22 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス TP14: SCHEMATIC1、PAGE1 (6.90, 4.90) から欠落しています。
+#23 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス R6: SCHEMATIC1、PAGE1 (2.90, 4.50) から欠落しています。
+#24 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス U3: SCHEMATIC1、PAGE1 (1.40, 4.60) から欠落しています。
+#25 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス TP15: SCHEMATIC1、PAGE1 (7.30, 4.90) から欠落しています。
+#26 ERROR(ORCAP-36002): 「PCB Footprint」属性が、インスタンス R5: SCHEMATIC1、PAGE1 (3.50, 4.70) から欠落しています。
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2211): High Speed 属性の構文をチェックする
+
+INFO(ORCAP-2212): 電源グランドが一致しないことをチェックする
+QUESTION(ORCAP-1589): ネットに 2 つ以上のエイリアスがあります - ショートしている可能性があります。 3.3V  3.3V  VDD  
+                    SCHEMATIC1, PAGE1  (7.00, 4.60) 
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------
